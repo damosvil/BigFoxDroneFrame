@@ -1,4 +1,4 @@
-# FoxDroneFrame
+# BigFoxDroneFrame
 This is a 58 grams 5 inch Floss Light frame to be used with 15x15mm motor mount pattern. All meassures are in millimeters.
 
 The arms of this frame are compatible with FLOSS-210, and FoxDroneFrame frames. They have the same botom plate M3 hole sizes. So you can print only the arms if you want to try the motors setup.
