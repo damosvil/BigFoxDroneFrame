@@ -5,7 +5,7 @@ The arms of this frame are compatible with FLOSS-210, and FoxDroneFrame frames. 
 
 Top plate is 2mm thick, bottom plate is 3mm thick, arms and reinforcements are 4mm thick.
 
-During my tests I tried fiberglass reinforcements, because at a const of 30% of extraweight they offer better performance in terms of combined resistance to crashes.
+During my tests I tried fiberglass reinforcements, because at a cost of 30% of extraweight they offer better performance in terms of combined resistance to crashes.
 
 This work is for public domain. You are free to copy it, modify it or distribute it with no royalties, fees, and stuff like that.
 
