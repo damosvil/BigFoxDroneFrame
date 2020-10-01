@@ -9,4 +9,4 @@ During my tests I tried fiberglass reinforcements, because at a cost of 30% of e
 
 This work is for public domain. You are free to copy it, modify it or distribute it with no royalties, fees, and stuff like that.
 
-![alt text](https://github.com/iso9660/BigBoxDroneFrame/blob/master/BigFox.PNG?raw=true)
+![alt text](https://github.com/iso9660/BigBoxDroneFrame/blob/master/BigFoxV2.PNG?raw=true)
